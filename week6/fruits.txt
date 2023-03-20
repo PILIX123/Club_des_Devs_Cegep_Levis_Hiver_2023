@@ -1,0 +1,95 @@
+1-Cerise
+2-Cantaloup
+3-Fruit-à-pain
+4-Chayotte
+5-Sapote
+6-Épine-vinette
+7-Melon
+8-Figue de barbarie
+9-Canneberge
+10-Pastèque
+11-Pomme de lait
+12-Goyave
+13-Groseille
+14-Mandarine
+15-Châtaigne
+16-Olive
+17-Girembelle
+18-Banane
+19-Carambole
+20-Cassis
+21-Kiwaï
+22-Pepino
+23-Bleuet
+24-Pamplemousse
+25-Ramboutan
+26-Fraise
+27-Salak
+28-Orange
+29-Tamarin
+30-Feijoa
+31-Bergamote
+32-Taxo
+33-Nèfle du Japon
+34-Amande
+35-Icaque
+36-Jacque
+37-Prune de Cythère
+38-Papaye
+39-Myrtille
+40-Alkékenge
+41-Avocat
+42-Datte
+43-Pomme
+44-Pistache
+45-Pitaya
+46-Asimine
+47-Cerise de Cayenne
+48-Griotte
+49-Barbadine
+50-Cacao
+51-Sapotille
+52-Kiwi
+53-Cynorrhodon
+54-Kiwano
+55-Tamarin d'Inde
+56-Jambose rouge
+57-Clémentine
+58-Mangue
+59-Citron
+60-Amélanche
+61-Quenette
+62-Grenade
+63-Lime
+64-Arbouse
+65-Pain de singe
+66-Les passiflores
+67-Kaki
+68-Jamalac
+69-Myrte
+70-Mûre
+71-Prunes
+72-Fruit de la passion
+73-Airelle
+74-Camu-camu
+75-Myrobolan
+76-Mombin
+77-Fe'i
+78-Framboise
+79-Poire
+80-Durian
+81-Pêche
+82-Coing
+83-Longane
+84-Tomate
+85-Pomme de cajou
+86-Tamarillo
+87-Nèfle
+88-Jujube
+89-Ananas
+90-Marron
+91-Figue
+92-Yuzu
+93-Pomélos
+94-Mangoustan
+95-Litchi
