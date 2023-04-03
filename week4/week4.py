@@ -1,4 +1,4 @@
-f = open("devClub/week4/nombres.txt", "r")
+f = open("week4/nombres.txt", "r")
 grid = [[int(test) for test in lines.split(' ')]
         for lines in f.read().split(' \n')]
 final = 0

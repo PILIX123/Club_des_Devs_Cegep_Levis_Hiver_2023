@@ -1,6 +1,6 @@
 import math
 total = 0
-with open("devClub/week3/dimensions.txt", "r") as instruction:
+with open("week3/dimensions.txt", "r") as instruction:
     dim = instruction.read().splitlines()
     for dims in dim:
         lSize = list(map(int, dims.split('x')))

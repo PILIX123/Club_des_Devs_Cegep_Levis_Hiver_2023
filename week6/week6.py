@@ -1,6 +1,6 @@
 fruits = dict()
 x = 420
-with open('devClub/week6/fruits.txt', "r", encoding='utf-8') as f:
+with open('week6/fruits.txt', "r", encoding='utf-8') as f:
     li = f.read().splitlines()
     for line in li:
         (key, val) = line.split('-', 1)
